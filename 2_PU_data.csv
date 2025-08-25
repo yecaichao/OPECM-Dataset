@@ -1,4 +1,4 @@
-No.,SMILES,°Ø-HOMO/eV,°Æ-LUMO/eV,Eg/eV,¶¡,¶Ã
+No.,SMILES,-HOMO/eV,-LUMO/eV,Eg/eV,¬¶√Å,¬¶√å
 1,Cc1cc2c(s1)-c1cc3c(c(C)c1C2(C)C)-c1sc(C)cc1C3(C)C,5,1.36,3.64,342.971,0.195243
 2,CCCCCCCCCCCCCCC(C)CCCCCCCCCCCC,7.94,0.01,7.93,343.12467,0.07781
 3,CC1c2cc(-c3cc4c5cc6c(=O)n(C)c(=O)c7ccc8c9ccc%10c(=O)n(C)c(=O)c%11cc(c4o3)c(c9c%10%11)c5c8c76)ccc2-c2ccc(-c3cc4c5cc6c(=O)n(C)c(=O)c7ccc8c9ccc%10c(=O)n(C)c(=O)c%11cc(c4o3)c(c9c%10%11)c5c8c76)cc21,6.39,1.44,4.95,139.34103,1.5241
@@ -1375,3 +1375,4 @@ No.,SMILES,°Ø-HOMO/eV,°Æ-LUMO/eV,Eg/eV,¶¡,¶Ã
 1374,*CC(CCl)(CCl)CO*,7.93,0.74,7.19,89.479,1.09622
 1375,*CC(=O)C(C)=S,6.57,3.51,3.06,69.84467,0.418791
 1376,*c1ccc(N)cc1,5.78,0.37,5.41,78.224,0.524527
+
